@@ -8,6 +8,15 @@
   min-height: 100vh;
 }
 
+.pattern-mobile {
+  display: none;
+}
+
+.pattern-desktop {
+  display: block;
+  width: 100%;
+}
+
 .card {
   background-color: var(--white);
   max-width: 600px;
@@ -74,4 +83,35 @@
   color: var(--dark-purple);
   font-size: 1.125rem;
   font-family: WorkSans-SemiBold;
+}
+
+@media screen and (max-width: 500px) {
+  .pattern-desktop {
+    display: none;
+  }
+
+  .pattern-mobile {
+    display: block;
+    width: 100%;
+  }
+
+  .card {
+    padding: 1.5rem;
+  }
+
+  .card-header {
+    margin-bottom: 1.5rem;
+  }
+
+  .card-header h1 {
+    font-size: 2rem;
+  }
+
+  .question h2 {
+    font-size: 1rem;
+  }
+
+  .question-wrapper p {
+    font-size: 0.875rem;
+  }
 }
