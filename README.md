@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ accordion solution
 
-This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -13,8 +13,6 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
   - [My process](#my-process)
     - [Built with](#built-with)
   - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -34,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- [Solution](https://www.frontendmentor.io/solutions/faqaccordion-using-html-css-css-flexbox-and-javascript-Xn503jIZ9g)
+- [Live Site](https://tangerine-bubblegum-e5f988.netlify.app/)
 
 ## My process
 
@@ -48,6 +46,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [portfolio](https://jeromehaynes.com/)
+- Frontend Mentor - [@dev-rome](https://www.frontendmentor.io/profile/dev-rome)
+- Twitter - [@rome_dev](https://x.com/rome_dev)
+- Linkedin - [@dev-rome](https://www.linkedin.com/in/jerome-haynes/)
